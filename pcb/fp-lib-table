@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name nearness)(type KiCad)(uri "$(KIPRJMOD)/nearness.pretty")(options "")(descr ""))
+)

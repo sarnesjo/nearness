@@ -1,0 +1,20 @@
+Reference,Qty,Description,Value,Package,Digikey #,Mouser #,Notes
+"U1, U2",2,"IC, LME49720",,SOIC-8,LME49720MAX/NOPBCT-ND,926-LME49720MAX/NOPB,
+"D1, D2",2,"Diode, 1N5819HW",,SOD-123,1N5819HW-FDICT-ND,621-1N5819HW-F,
+"C1, C2",2,"Capacitor, ceramic, C0G/NP0",22p,0603,490-9685-1-ND,81-GRM185C1H220FA01J,
+"C3, C4",2,"Capacitor, ceramic",22u,0805,490-10749-1-ND,81-GRM21BR61E226ME4L,
+"C5, C6, C7, C8",4,"Capacitor, ceramic",100n,0603,490-9691-1-ND,81-GRM188R71E104JA1J,
+"R1, R14, R15, R16, R17, R18, R19, R20, R21, R22",10,"Resistor, thin film, 0.1%",100k,0805,P100KDACT-ND,667-ERA-6AEB104V,
+"R2, R13",2,"Resistor, thick film, 1%",1M69,0805,P1.69BTCT-ND,667-ERJ-6ENF1694V,
+"R3, R12",2,"Resistor, thin film, 0.1%",102k,0805,P102KDACT-ND,667-ERA-6AEB1023V,
+"R4, R11",2,"Resistor, thin film, 0.1%",442k,0805,P442KDACT-ND,667-ERA-6AEB4423V,
+"R5, R10",2,"Resistor, thin film, 0.1%",113k,0805,P113KDACT-ND,667-ERA-6AEB1133V,
+"R6, R9",2,"Resistor, thin film, 0.1%",215k,0805,P215KDACT-ND,667-ERA-6AEB2153V,
+"R7, R8",2,"Resistor, thin film, 0.1%",140k,0805,P140KDACT-ND,667-ERA-6AEB1403V,
+"R23, R24",2,"Resistor, thin film, 0.1%",1k,0805,P1.0KDACT-ND,667-ERA-6AEB102V,
+"P1, P2",2,"Pin header, female, 1x5",,,,,http://www.taydaelectronics.com/5-pin-2-54-mm-single-row-female-pin-header.html
+"P3, P4",2,"Pin header, male, 1x5",,,,,http://www.taydaelectronics.com/40-pin-2-54-mm-single-row-pin-header-strip.html
+"P5, P6",2,"Pin header, male, right angle, 1x3",,,,,http://www.taydaelectronics.com/40-pin-2-54-mm-angle-single-row-pin-header.html
+P7,1,"Pin header, male, 2x5",,,,,http://www.taydaelectronics.com/2x40-pin-2-54-mm-double-row-pin-header-strip.html
+"J1, J2, J3, J4, J5, J6, J7, J8, J9",9,"Jack, PJ301M-12",,,,,https://www.thonk.co.uk/shop/3-5mm-jacks/
+,2,Jumper,,,,,http://www.taydaelectronics.com/mini-jumper-2-54mm-gold-plated-closed-cover.html
