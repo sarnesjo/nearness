@@ -1,4 +1,4 @@
-update=Sunday, January 21, 2018 'PMt' 01:47:39 PM
+update=Sun 26 Jan 2020 09:54:15 PM AEDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,15 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=conn
-LibName4=pj301m12
-LibName5=lme49720
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -44,3 +35,6 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=

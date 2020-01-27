@@ -2,4 +2,6 @@
 *.bck
 *.kicad_pcb-bak
 *.net
+*.sch-bak
+fp-info-cache
 gerbers/
